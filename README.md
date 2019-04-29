@@ -7,9 +7,9 @@ Content from the 2019 edition of the Global Azure Bootcamp (in Columbus, OH)
 
 ## Azure Governance
 
-[ReadMe](../Azure%20Governance/Readme.md)
+[ReadMe](./Azure%20Governance/Readme.md)
 
-[Slides](../Azure%20Governance/Slides.pdf)
+[Slides](./Azure%20Governance/Slides.pdf)
 
 ## Cosmos DB
 
