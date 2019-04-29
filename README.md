@@ -18,3 +18,5 @@ Content from the 2019 edition of the Global Azure Bootcamp (in Columbus, OH)
 [Lab](https://cosmosdb.github.io/labs/)
 
 ## Enabling your DevOps process through Azure
+
+[Presentation](./Enabling%20Your%20DevOps%20Process%20Through%20Azure)
