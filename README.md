@@ -19,4 +19,4 @@ Content from the 2019 edition of the Global Azure Bootcamp (in Columbus, OH)
 
 ## Enabling your DevOps process through Azure
 
-[Presentation](./Enabling%20Your%20DevOps%20Process%20Through%20Azure)
+[Presentation]( ./Enabling%20Your%20DevOps%20Process%20Through%20Azure/Enabling%20your%20DevOps%20Process%20through%20Azure.pptx)
